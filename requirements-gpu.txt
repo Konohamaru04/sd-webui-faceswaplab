@@ -5,6 +5,7 @@ onnx>=1.14.0
 protobuf>=3.20.2
 opencv-python
 pandas
+albumentations==1.3.1
 pydantic
 safetensors
 onnxruntime>=1.15.0
